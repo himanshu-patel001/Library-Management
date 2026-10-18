@@ -203,3 +203,5 @@ Library-Management/
 - **Frontend**: React 19, Vite, React Router DOM, Bootstrap 5, React Icons, Framer Motion, Axios, React Toastify.
 - **Backend**: Node.js, Express.js, Mongoose 8, JWT (jsonwebtoken), BcryptJS, Multer, Cloudinary, Nodemailer.
 - **Database**: MongoDB (Local or MongoDB Atlas Cloud).
+#   L i b r a r y - M a n a g e m e n t  
+ 
