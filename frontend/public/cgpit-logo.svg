@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <!-- CGPIT Emblem (Chhotubhai Gopalbhai Patel Institute of Technology) -->
+  <defs>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-opacity="0.2" />
+    </filter>
+  </defs>
+
+  <g filter="url(#softShadow)">
+    <!-- 1. Top Indigo Arc of the "C" -->
+    <path d="
+      M 24,95
+      A 76,76 0 0,1 168,70
+      L 142,82
+      A 48,48 0 0,0 52,95
+      Z" 
+      fill="#1d1354" 
+    />
+
+    <!-- 2. Bottom-Left Olive/Gold Arc -->
+    <path d="
+      M 24,105
+      A 76,76 0 0,0 95,176
+      L 95,148
+      A 48,48 0 0,1 52,105
+      Z" 
+      fill="#8e9729" 
+    />
+
+    <!-- 3. Bottom-Right Indigo "G" Shape -->
+    <path d="
+      M 105,176
+      A 76,76 0 0,0 176,105
+      L 176,92
+      L 114,92
+      L 114,118
+      L 148,118
+      A 48,48 0 0,1 105,148
+      Z" 
+      fill="#1d1354" 
+    />
+
+    <!-- 4. Central Olive/Gold Flame / Pen-Nib -->
+    <path d="
+      M 100,52
+      C 94,82 86,108 86,124
+      C 86,134 92,142 100,142
+      C 108,142 114,134 114,124
+      C 114,108 106,82 100,52
+      Z" 
+      fill="#8e9729" 
+    />
+  </g>
+</svg>
